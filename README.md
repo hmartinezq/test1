@@ -32,6 +32,14 @@ mvn clean install
 
 java -jar exercice-0.0.4-SNAPSHOT.jar
 
+Testing url
+
+http://localhost:8080/api/v1/play
+
+try to test using curl
+curl -X GET http://localhost:8080/api/v1/play -H 'Content-Type: application/json' -d '{"players": [{"name": "Sub zero","type": "expert"},{"name": "Scorpion","type": "novice"},{"name": "Reptile","type": "meh"}]}
+
+or using postman
 
 
 
