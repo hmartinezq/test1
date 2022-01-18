@@ -1,0 +1,16 @@
+C:\kafka\exercice\src\main\java\com\hugo\test\controllers\DataServiceInterface.java
+C:\kafka\exercice\src\main\java\com\hugo\test\controllers\DataServiceResponse.java
+C:\kafka\exercice\src\main\java\com\hugo\test\controllers\MainController.java
+C:\kafka\exercice\src\main\java\com\hugo\test\payload\request\PlayerRequest.java
+C:\kafka\exercice\src\main\java\com\hugo\test\security\WebSecurityConfig.java
+C:\kafka\exercice\src\main\java\com\hugo\test\services\MainService.java
+C:\kafka\exercice\src\main\java\com\hugo\test\models\Player.java
+C:\kafka\exercice\src\main\java\com\hugo\test\Application.java
+C:\kafka\exercice\src\main\java\com\hugo\test\managment\DataSourceRequest.java
+C:\kafka\exercice\src\main\java\com\hugo\test\repository\MainRepository.java
+C:\kafka\exercice\src\main\java\com\hugo\test\managment\DataSourceResult.java
+C:\kafka\exercice\src\main\java\com\hugo\test\managment\mappers\customJacksonMapper.java
+C:\kafka\exercice\src\main\java\com\hugo\test\services\MainServiceInterface.java
+C:\kafka\exercice\src\main\java\com\hugo\test\payload\request\Player.java
+C:\kafka\exercice\src\main\java\com\hugo\test\payload\response\PlayerResponse.java
+C:\kafka\exercice\src\main\java\com\hugo\test\controllers\DataServiceController.java
